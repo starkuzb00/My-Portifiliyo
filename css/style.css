@@ -19,7 +19,7 @@ img{
 }
 
 body{
-    font-family: 'Preahvihear';
+    font-family: 'Courier New', Courier, monospace;
 }
 
 
@@ -85,3 +85,105 @@ body{
 
    /* navbar_ended */
    /* ////////////////////////// */
+
+
+
+   .main .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   }
+
+   .main{
+    position: relative;
+   }
+
+
+   .my_photo{
+    margin-left: -50%;
+    margin-top: 10%;
+   }
+
+  
+
+
+   .im2{
+    margin-top: -65%;
+    width: 250px;
+    margin-left: -10%;
+
+   }
+
+    .im3{
+    width: 80px;
+    position: absolute;
+    left: 30%;
+    top: 210px;
+    }
+
+
+
+
+   .h31{
+    margin-top: 30%;
+   color: white;
+   margin-left: 80%;
+   width: 200px;
+    font-size: 16px;
+   }
+
+
+
+   .h3{
+    color: #7127BA;
+    font-size: 16px;
+    margin-top: -6%;
+    margin-left: 120%;
+   }
+
+
+   .my_text h4{
+    font-size: 17px;
+    color: white;
+    margin-left: 85%;
+    width: 150px;
+    margin-top: 40%;
+    border-bottom: 1px solid white;
+    transition: .5s;
+   }
+
+   .my_text h4:hover{
+    color: red;
+   }
+
+
+  
+     .my_text h2{
+        margin-left: 83%;
+     }
+
+
+   .h2{
+    display: inline-block;
+    font-size: 40px;
+    color: white;
+    width: 300px;
+   }
+   
+
+   .h21{
+    font-size: 40px;
+    margin-top: -15.5%;
+    margin-left: 174%;
+    color: #7127BA;
+   }
+
+
+
+   /* .my_text p{
+     margin-left: 83%;
+     width: 500px;
+    color: white;
+    font-weight: bold;
+
+ } */
